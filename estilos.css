@@ -12,5 +12,23 @@ body {
     color: black;
 }
 
+.grandiente {
+    background-image: linear-gradient(to bottom right,
+     blue 0%, violet 60%);
+}
+
+h1 {
+    width: 100px;
+    height: 100px;
+    transition: height 1s, width 10s, font-size 3s;
+    font-size: 20px;
+}
+
+h1:hover {
+    width: 200px;
+    height: 200px;
+    font-size: 60px;
+}
+
 /*Git*/
 
