@@ -1,0 +1,16 @@
+/*Estilos generales*/
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(214, 207, 207);
+    color: black;
+}
+
+/*Git*/
+
